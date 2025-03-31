@@ -1,0 +1,42 @@
+.alerts-page {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .alerts-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .alert-item {
+    background: #fff3cd;
+    border: 1px solid #ffeeba;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 600px;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .alert-item.review {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+  }
+  
+  .alert-status {
+    margin-top: 0.5rem;
+    font-weight: bold;
+    color: #721c24;
+  }
+  
+  .back-button {
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    background: #457DAA;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  

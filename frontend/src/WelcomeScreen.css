@@ -1,0 +1,39 @@
+.welcome-container {
+    background-image: url(../public/weather-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .welcome-content {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 3rem;
+    border-radius: 12px;
+  }
+  
+  .welcome-content h1 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+  }
+  
+  .welcome-content button {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    background-color: rgba(10, 70, 235, 0.7);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .welcome-content button:hover {
+    background-color: rgba(37, 99, 235, 0.9); 
+  }

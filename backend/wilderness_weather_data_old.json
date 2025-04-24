@@ -1174,3 +1174,144 @@
 {"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 11.184593171062097, "humidity": 67, "pressure": 1010, "timestamp": "2025-03-30 18:57:42"}
 {"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 31.812672147690474, "humidity": 90, "pressure": 1006, "timestamp": "2025-03-30 18:57:42"}
 {"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 17.51325960794491, "humidity": 42, "pressure": 1026, "timestamp": "2025-03-30 18:57:42"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 16.032443986323358, "humidity": 57, "pressure": 1019, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": -7.59981982311952, "humidity": 48, "pressure": 1009, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 26.414470610659354, "humidity": 18, "pressure": 1013, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 6.731789395567461, "humidity": 59, "pressure": 1011, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 38.2443362671857, "humidity": 14, "pressure": 1007, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 14.6056365974398, "humidity": 66, "pressure": 1015, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 30.587944416939962, "humidity": 81, "pressure": 1006, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": -14.868824792213262, "humidity": 78, "pressure": 1008, "timestamp": "2025-03-30 19:04:55"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 6.722954887438966, "humidity": 53, "pressure": 1021, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 10.451241029567718, "humidity": 50, "pressure": 1024, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 34.32289838768936, "humidity": 27, "pressure": 1006, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 14.937378884497473, "humidity": 41, "pressure": 1001, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 37.26753377955153, "humidity": 17, "pressure": 1011, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 15.615541299223139, "humidity": 70, "pressure": 1019, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 33.751908179607796, "humidity": 82, "pressure": 1005, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 5.87228254711162, "humidity": 80, "pressure": 1018, "timestamp": "2025-03-30 19:04:58"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 12.812195122159377, "humidity": 41, "pressure": 1007, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": -14.855247022933703, "humidity": 80, "pressure": 1024, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 35.11429881673557, "humidity": 24, "pressure": 1005, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -12.48758928856018, "humidity": 51, "pressure": 1013, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 36.713627377420806, "humidity": 27, "pressure": 1010, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 17.030729366891304, "humidity": 76, "pressure": 1014, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 33.92600459621387, "humidity": 77, "pressure": 1007, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 0.7991540555453405, "humidity": 47, "pressure": 1016, "timestamp": "2025-03-30 19:04:59"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 10.905617070018614, "humidity": 68, "pressure": 1027, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 33.252033589947146, "humidity": 21, "pressure": 1011, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 4.912445679651558, "humidity": 57, "pressure": 1030, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 39.27266947168108, "humidity": 21, "pressure": 1010, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 11.634300796134845, "humidity": 71, "pressure": 1013, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 31.768974768825466, "humidity": 94, "pressure": 1005, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 15.625087848364142, "humidity": 42, "pressure": 1011, "timestamp": "2025-03-30 19:05:05"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": -11.969202510519107, "humidity": 59, "pressure": 1007, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 11.747991701523013, "humidity": 52, "pressure": 1008, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 24.347599856765605, "humidity": 16, "pressure": 1015, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -9.360528977048768, "humidity": 80, "pressure": 1008, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 35.810671047515804, "humidity": 20, "pressure": 1007, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 17.842282063017734, "humidity": 77, "pressure": 1014, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 31.279744590775167, "humidity": 77, "pressure": 1005, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 1.9688382754223568, "humidity": 55, "pressure": 1008, "timestamp": "2025-03-30 19:05:11"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 11.145661815224749, "humidity": 55, "pressure": 1028, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": -8.146946961001632, "humidity": 47, "pressure": 1013, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 31.407587126618452, "humidity": 17, "pressure": 1005, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 5.2651881197066785, "humidity": 59, "pressure": 1023, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 35.86679734982437, "humidity": 20, "pressure": 1010, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 12.308949549412443, "humidity": 65, "pressure": 1010, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 25.804683233434844, "humidity": 77, "pressure": 1005, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 23.189363696346284, "humidity": 46, "pressure": 1011, "timestamp": "2025-03-30 19:05:13"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": -7.2589454000566445, "humidity": 59, "pressure": 1012, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 6.545055895000367, "humidity": 43, "pressure": 1002, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 27.449860965297454, "humidity": 15, "pressure": 1011, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 12.792659821711496, "humidity": 41, "pressure": 1027, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 29.44316933033, "humidity": 16, "pressure": 1006, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 15.859480387205345, "humidity": 62, "pressure": 1017, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 25.541801023873266, "humidity": 85, "pressure": 1007, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": -13.19508417025476, "humidity": 74, "pressure": 1007, "timestamp": "2025-03-30 19:05:28"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 16.596631266392702, "humidity": 43, "pressure": 1005, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 2.479657079840514, "humidity": 43, "pressure": 1016, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 23.08328138510115, "humidity": 11, "pressure": 1012, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -9.826103340885876, "humidity": 74, "pressure": 1011, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 35.506710085325565, "humidity": 24, "pressure": 1012, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 15.713143420008151, "humidity": 78, "pressure": 1012, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 33.816391178635605, "humidity": 88, "pressure": 1010, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 12.814753390096776, "humidity": 45, "pressure": 1026, "timestamp": "2025-03-31 17:52:49"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 3.5344175275875855, "humidity": 76, "pressure": 1028, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 19.265722438157702, "humidity": 40, "pressure": 1007, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 34.95327507627862, "humidity": 12, "pressure": 1008, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -6.149345006197041, "humidity": 48, "pressure": 1010, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 37.16274584980995, "humidity": 27, "pressure": 1010, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 10.055571403578531, "humidity": 65, "pressure": 1017, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 30.045178205275832, "humidity": 72, "pressure": 1005, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 10.507664875839783, "humidity": 65, "pressure": 1010, "timestamp": "2025-03-31 17:52:58"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": -2.036265728668777, "humidity": 52, "pressure": 1001, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": -11.546550525879141, "humidity": 79, "pressure": 1004, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 34.712513744668065, "humidity": 22, "pressure": 1014, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 15.211985799103683, "humidity": 46, "pressure": 1018, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 32.99555679080811, "humidity": 28, "pressure": 1010, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 14.566630519536993, "humidity": 79, "pressure": 1013, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 33.90490315994062, "humidity": 77, "pressure": 1010, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 18.874800262460106, "humidity": 77, "pressure": 1005, "timestamp": "2025-03-31 17:53:02"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": -0.6398151462407711, "humidity": 49, "pressure": 1026, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 2.6108154338063017, "humidity": 62, "pressure": 1004, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 34.28814586938759, "humidity": 11, "pressure": 1015, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 12.291492415400288, "humidity": 40, "pressure": 1030, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 37.49963185632444, "humidity": 10, "pressure": 1009, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 12.975124748381003, "humidity": 75, "pressure": 1018, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 25.667058989688027, "humidity": 91, "pressure": 1009, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": -0.026028574124543624, "humidity": 70, "pressure": 1028, "timestamp": "2025-03-31 17:53:07"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 10.052734870023372, "humidity": 79, "pressure": 1003, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 12.470731079814946, "humidity": 69, "pressure": 1000, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 32.61365865745383, "humidity": 24, "pressure": 1006, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -8.472093743049394, "humidity": 63, "pressure": 1017, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 27.487632732353916, "humidity": 20, "pressure": 1005, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 10.147699493583941, "humidity": 61, "pressure": 1011, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 28.218966840464404, "humidity": 75, "pressure": 1005, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": -4.986760463572178, "humidity": 58, "pressure": 1023, "timestamp": "2025-03-31 17:53:10"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 2.3514774533610847, "humidity": 59, "pressure": 1011, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 5.07517841649307, "humidity": 77, "pressure": 1012, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 23.368897587181706, "humidity": 10, "pressure": 1008, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -13.678784817635306, "humidity": 64, "pressure": 1021, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 38.76198486158194, "humidity": 18, "pressure": 1006, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 25.765584618153177, "humidity": 80, "pressure": 1007, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 3.48976776434197, "humidity": 47, "pressure": 1006, "timestamp": "2025-03-31 17:53:36"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 10.839488825260212, "humidity": 78, "pressure": 1018, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 15.108918141491593, "humidity": 67, "pressure": 1025, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 36.1821053799484, "humidity": 20, "pressure": 1010, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -13.472562345703274, "humidity": 65, "pressure": 1002, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 26.79593767521087, "humidity": 17, "pressure": 1013, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 17.011001931247346, "humidity": 67, "pressure": 1016, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 28.948552900050785, "humidity": 70, "pressure": 1007, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 7.856302599407815, "humidity": 76, "pressure": 1015, "timestamp": "2025-03-31 19:35:48"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 19.538572564115526, "humidity": 40, "pressure": 1025, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": -2.014585487964805, "humidity": 51, "pressure": 1009, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 21.003684047879304, "humidity": 19, "pressure": 1005, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 6.755771474756571, "humidity": 72, "pressure": 1001, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 31.687043250740814, "humidity": 27, "pressure": 1013, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 18.2587203934183, "humidity": 76, "pressure": 1014, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 27.032177000158985, "humidity": 94, "pressure": 1005, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 17.45182959995158, "humidity": 54, "pressure": 1018, "timestamp": "2025-03-31 19:35:52"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": -14.26285884219418, "humidity": 62, "pressure": 1029, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 3.8425793822759786, "humidity": 59, "pressure": 1023, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 35.622414557172625, "humidity": 23, "pressure": 1013, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": -8.233393582156472, "humidity": 41, "pressure": 1030, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 29.726934076352798, "humidity": 20, "pressure": 1012, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 14.60500149399562, "humidity": 73, "pressure": 1018, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 28.734929396623386, "humidity": 73, "pressure": 1007, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": 18.680463802070534, "humidity": 49, "pressure": 1001, "timestamp": "2025-03-31 19:36:47"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 5.684567078657928, "humidity": 53, "pressure": 1029, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": 14.711766595998306, "humidity": 59, "pressure": 1009, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 21.656874215175932, "humidity": 27, "pressure": 1014, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 2.015397057555287, "humidity": 77, "pressure": 1011, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 31.23927443803927, "humidity": 24, "pressure": 1015, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 16.202869900584098, "humidity": 60, "pressure": 1010, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 27.43248643493719, "humidity": 90, "pressure": 1007, "timestamp": "2025-03-31 19:37:36"}
+{"place": "Yellowstone National Park", "latitude": 44.428, "longitude": -110.5885, "temperature": 9.123134939408608, "humidity": 48, "pressure": 1016, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Yosemite National Park", "latitude": 37.8651, "longitude": -119.5383, "temperature": -8.718241091199314, "humidity": 50, "pressure": 1023, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Grand Canyon National Park", "latitude": 36.1069, "longitude": -112.1129, "temperature": 35.53526146810586, "humidity": 27, "pressure": 1011, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Great Smoky Mountains National Park", "latitude": 35.6532, "longitude": -83.4685, "temperature": 20.321778334613505, "humidity": 48, "pressure": 1012, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Zion National Park", "latitude": 37.2982, "longitude": -113.0263, "temperature": 39.580047063131474, "humidity": 21, "pressure": 1009, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Acadia National Park", "latitude": 44.3386, "longitude": -68.2733, "temperature": 18.95203067658812, "humidity": 76, "pressure": 1019, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Everglades National Park", "latitude": 25.2866, "longitude": -80.8987, "temperature": 27.89725292678881, "humidity": 75, "pressure": 1009, "timestamp": "2025-04-24 17:29:45"}
+{"place": "Rocky Mountain National Park", "latitude": 40.3428, "longitude": -105.6836, "temperature": -10.053728566616908, "humidity": 42, "pressure": 1002, "timestamp": "2025-04-24 17:29:45"}

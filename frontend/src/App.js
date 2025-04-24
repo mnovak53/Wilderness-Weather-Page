@@ -1,3 +1,4 @@
+//co-author: chat gpt
 import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
@@ -33,20 +34,20 @@ function App() {
     try {
       setNotification("Fetching and archiving data...");
   
-      // Step 1: Fetch new weather + get alerts
+      //fetch new weather + get alerts
       const fetchRes = await axios.post("http://localhost:5000/api/fetch");
       const alerts = fetchRes.data.alerts || [];
       localStorage.setItem("system_alerts", JSON.stringify(alerts));  // ⬅️ Save alerts
   
-      // Step 2: Archive new data
+      //archive new data
       await axios.post("http://localhost:5000/api/archive");
   
-      // Step 3: Load latest data
+      //load latest data
       const res = await axios.get("http://localhost:5000/api/weather");
       setWeatherData(res.data);
   
       setNotification("✅ New weather data fetched and stored.");
-      setStatus(alerts.length > 0 ? "REVIEW" : "GOOD"); // Show status based on alerts
+      setStatus(alerts.length > 0 ? "REVIEW" : "GOOD"); //show status
     } catch (error) {
       console.error(error);
       setNotification("❌ Failed to fetch data.");

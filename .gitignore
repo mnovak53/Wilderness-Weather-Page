@@ -1,13 +1,20 @@
 # Ignore Python virtual environment
 backend/venv/
 
-# Ignore node_modules and build files
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore frontend build and dependencies
 frontend/node_modules/
 frontend/build/
 
-# Ignore common OS files
+# Ignore common system files
 .DS_Store
 
-# Ignore SQLite database and log files
+# Ignore database files and logs
 *.db
 *.log
+
+# Ignore environment files
+.env

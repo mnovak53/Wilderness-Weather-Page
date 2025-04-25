@@ -1,0 +1,20 @@
+# Ignore Python virtual environment
+backend/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore frontend build and dependencies
+frontend/node_modules/
+frontend/build/
+
+# Ignore common system files
+.DS_Store
+
+# Ignore database files and logs
+*.db
+*.log
+
+# Ignore environment files
+.env

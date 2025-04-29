@@ -1,0 +1,34 @@
+{
+  "Yellowstone National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Yosemite National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Grand Canyon National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Great Smoky Mountains National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Zion National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Acadia National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Everglades National Park": {
+    "success": 7,
+    "fail": 0
+  },
+  "Rocky Mountain National Park": {
+    "success": 7,
+    "fail": 0
+  }
+}

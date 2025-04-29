@@ -1,1 +1,5 @@
 [2025-04-28 21:27:48] Rocky Mountain National Park Sensor #5 intermittent signal — possible interference
+[2025-04-28 21:33:42] Grand Canyon National Park Sensor #4 not responding — unknown error
+[2025-04-28 21:33:42] Rocky Mountain National Park Sensor #9 water damage detected
+[2025-04-28 21:34:17] Yellowstone National Park Sensor #3 down — freezing temperatures
+[2025-04-28 21:34:17] Yosemite National Park Sensor #7 down — freezing temperatures

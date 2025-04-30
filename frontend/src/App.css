@@ -187,3 +187,33 @@ th {
   color: black;
 }
 
+.pulsing-dot {
+  position: absolute;
+  top: 30%; 
+  left: 50%;
+  width: 12px;
+  height: 12px;
+  background-color: red;
+  border-radius: 50%;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.9);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(0.9);
+    opacity: 1;
+  }
+}
+
+.map-container {
+  position: relative;
+  text-align: center;
+}

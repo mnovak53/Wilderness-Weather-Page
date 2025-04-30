@@ -4,6 +4,8 @@ import axios from "axios";
 import "./App.css";
 import WelcomeScreen from "./WelcomeScreen";
 import AlertsPage from "./AlertsPage";
+import Dashboard from "./Dashboard";
+
 
 
 function App() {
@@ -16,7 +18,7 @@ function App() {
 
   const [viewingAlerts, setViewingAlerts] = useState(false);
 
-  const [selectedCity, setSelectedCity] = useState("All");
+  const [selectedCity, setSelectedCity] = useState(null);
   const cityOptions = [
     "All",
     "Yellowstone National Park",
@@ -28,6 +30,8 @@ function App() {
     "Everglades National Park",
     "Rocky Mountain National Park"
   ];
+
+  
   
 
   const fetchNewData = async () => {
@@ -93,6 +97,58 @@ function App() {
   if (!entered) {
     return <WelcomeScreen onEnter={() => setEntered(true)} />;
   }
+  
+
+  if (!selectedCity) {
+    return (
+      <Dashboard
+  onSelectPark={(city) => {
+    setSelectedCity(city);
+
+    const selected = weatherData.find((entry) => entry.place === city);
+    if (selected) {
+      const newStatus = (selected.temperature < -10 || selected.temperature > 38) ? "REVIEW" : "GOOD";
+      setStatus(newStatus);
+    }
+  }}
+  statusMap={buildStatusMap(weatherData)}
+/>
+
+    );
+  }
+
+  function getImageFileName(cityName) {
+    switch (cityName) {
+      case "Yellowstone National Park":
+        return "yellowstone.jpg";
+      case "Yosemite National Park":
+        return "yosemite.jpg";
+      case "Grand Canyon National Park":
+        return "grandcanyon.jpg";
+      case "Great Smoky Mountains National Park":
+        return "greatsmoky.jpg";
+      case "Zion National Park":
+        return "zion.jpg";
+      case "Acadia National Park":
+        return "acadia.jpg";
+      case "Everglades National Park":
+        return "everglades.jpg";
+      case "Rocky Mountain National Park":
+        return "rockymountain.jpg";
+      default:
+        return "placeholder.jpg"; 
+    }
+  }
+  
+  function buildStatusMap(data) {
+    const map = {};
+    data.forEach((entry) => {
+      map[entry.place] = entry.temperature < -10 || entry.temperature > 38 ? "review" : "good";
+    });
+    return map;
+  }
+  
+
 
   return (
     <div className="App">
@@ -153,38 +209,62 @@ function App() {
 
 
 {weatherData.length > 0 && (
-  <table>
-    <thead>
-      <tr>
-        <th>City</th>
-        <th>Temperature (°C)</th>
-        <th>Humidity</th>
-        <th>Pressure</th>
-        <th>Timestamp</th>
-      </tr>
-    </thead>
-    <tbody>
-    {weatherData
-  .filter((entry) => selectedCity === "All" || entry.place === selectedCity)
-  .map((entry) => (
-    <tr key={entry.id}>
-      <td>{entry.place}</td>
-      <td>{entry.temperature}</td>
-      <td>{entry.humidity}</td>
-      <td>{entry.pressure}</td>
-      <td>{entry.timestamp}</td>
-    </tr>
-  ))}
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th>City</th>
+          <th>Temperature (°C)</th>
+          <th>Humidity</th>
+          <th>Pressure</th>
+          <th>Timestamp</th>
+        </tr>
+      </thead>
+      <tbody>
+        {weatherData
+          .filter((entry) => selectedCity === "All" || entry.place === selectedCity)
+          .map((entry) => (
+            <tr key={entry.id}>
+              <td>{entry.place}</td>
+              <td>{entry.temperature}</td>
+              <td>{entry.humidity}</td>
+              <td>{entry.pressure}</td>
+              <td>{entry.timestamp}</td>
+            </tr>
+          ))}
+      </tbody>
+    </table>
 
-    </tbody>
-  </table>
+    {selectedCity !== "All" && (
+  <div className="map-container">
+    <h3>Map of {selectedCity}</h3>
+    <p style={{ fontSize: "12px", color: "gray", marginTop: "-10px" }}>
+    🔴 Red dot = Sensor Location
+  </p>
+    <div style={{ position: "relative", display: "inline-block" }}>
+      <img
+        src={`/maps/${getImageFileName(selectedCity)}`}
+        alt={`Map of ${selectedCity}`}
+        style={{
+          width: "80%",
+          maxWidth: "600px",
+          marginTop: "20px",
+          borderRadius: "10px",
+        }}
+      />
+      <div className="pulsing-dot"></div>
+    </div>
+  </div>
 )}
+</div>)}
+
+
 
 
 
 
       <div className="exit-button-container">
-  <button className="return-button" onClick={() => setEntered(false)}>
+  <button className="return-button" onClick={() => setSelectedCity(null)}>
     ⬅️ Exit
   </button>
 </div>
